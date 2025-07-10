@@ -1,6 +1,6 @@
-# 🛠️ Hardy F. (hhrh)
-### 📚 Always Learning
+## Hardy Fenam
 
+GitHub: hhrh  
 [linkedin](https://www.linkedin.com/in/hardyf/)  
 hardy.git@gmail.com    
 
