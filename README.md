@@ -1,8 +1,8 @@
 ## Hardy Fenam
 
-GitHub: hhrh  
-[linkedin](https://www.linkedin.com/in/hardyf/)  
-hardy.git@gmail.com    
+GitHub: hhrh
+
+[LinkedIn](https://www.linkedin.com/in/hardyf/) | hardy.git@gmail.com    
 
 <!--
 **hhrh/hhrh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
