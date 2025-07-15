@@ -2,8 +2,13 @@
 ### Data Engineer
 
 Data Engineering Projects:  
-- https://github.com/hhrh/Real-Time-Fraud-Detection - MLOps real-time pipeline with Kafka  
-- https://github.com/hhrh/AWS-ETL-Pipeline-Terraform - AWS Serverless ETL pipeline with Glue (Spark)
+- https://github.com/hhrh/Real-Time-Fraud-Detection
+  - MLOps real-time pipeline with Kafka,
+  - FastAPI Microservice w/ XGBoost, LightGBM, & CatBoost
+    
+- https://github.com/hhrh/AWS-ETL-Pipeline-Terraform
+  - AWS Serverless ETL pipeline w/ Glue (Spark), Lambda, SNS, and Step Functions
+  - Fully provisioned w/ Terraform IaC
   
   
 
