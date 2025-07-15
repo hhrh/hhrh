@@ -1,9 +1,13 @@
 ## Hardy Fenam
-Data Engineer
+### Data Engineer
 
-GitHub: hhrh
+Data Engineering Projects:  
+- https://github.com/hhrh/Real-Time-Fraud-Detection - MLOps real-time pipeline with Kafka  
+- https://github.com/hhrh/AWS-ETL-Pipeline-Terraform - AWS Serverless ETL pipeline with Glue (Spark)
+  
+  
 
-[LinkedIn](https://www.linkedin.com/in/hardyf/) | hardy.git@gmail.com    
+[LinkedIn](https://www.linkedin.com/in/hardyf/) | hardy.git@gmail.com
 
 <!--
 **hhrh/hhrh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
