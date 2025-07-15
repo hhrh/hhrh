@@ -12,7 +12,7 @@ Data Engineering Projects:
   
   
 
-[LinkedIn](https://www.linkedin.com/in/hardyf/) | hardy.git@gmail.com
+[LinkedIn](https://www.linkedin.com/in/hardyf/) | hardy.git@gmail.com | [Data Engineering Blog](https://data-guide.github.io/)
 
 <!--
 **hhrh/hhrh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
