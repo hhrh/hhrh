@@ -9,6 +9,10 @@ Data Engineering Projects:
 - https://github.com/hhrh/AWS-ETL-Pipeline-Terraform
   - AWS Serverless ETL pipeline w/ Glue (Spark), Lambda, SNS, and Step Functions
   - Fully provisioned w/ Terraform IaC
+
+- https://github.com/hhrh/crypto-airflow-dbt-postgresql-pipeline
+  - real-time cryptocurrency pipeline, prices loaded into PostgreSQL, transformed using dbt
+  - All orchestrated by Airflow and running inside Docker containers
   
   
 
