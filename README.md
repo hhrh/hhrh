@@ -13,10 +13,10 @@ Data Engineering Projects:
 - https://github.com/hhrh/crypto-airflow-dbt-postgresql-pipeline
   - real-time cryptocurrency pipeline, prices loaded into PostgreSQL, transformed using dbt
   - All orchestrated by Airflow and running inside Docker containers
-  
-  
 
-[LinkedIn](https://www.linkedin.com/in/hardyf/) | hardy.git@gmail.com | [Data Engineering Blog](https://data-guide.github.io/)
+B.S. in Computer Science - University of Nevada, Las Vegas  
+[LinkedIn](https://www.linkedin.com/in/hardyf/) | hardy.git@gmail.com | [Data Engineering Blog](https://data-guide.github.io/)  
+
 
 <!--
 **hhrh/hhrh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
