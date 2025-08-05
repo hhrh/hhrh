@@ -1,21 +1,29 @@
-## Hardy Fenam
-### Data Engineer
+# Hardy Fenam, Developer
 
-Data Engineering Projects:  
-- https://github.com/hhrh/Real-Time-Fraud-Detection
+## Data Engineering Projects:  
+- [Real Time Financial Fraud Detection Pipeline](https://github.com/hhrh/Real-Time-Fraud-Detection)
   - MLOps real-time pipeline with Kafka,
   - FastAPI Microservice w/ XGBoost, LightGBM, & CatBoost
     
-- https://github.com/hhrh/AWS-ETL-Pipeline-Terraform
+- [AWS Stock Market Pipeline](https://github.com/hhrh/AWS-ETL-Pipeline-Terraform)
   - AWS Serverless ETL pipeline w/ Glue (Spark), Lambda, SNS, and Step Functions
   - Fully provisioned w/ Terraform IaC
 
-- https://github.com/hhrh/crypto-airflow-dbt-postgresql-pipeline
+- [Cryptocurrency Pipeline](https://github.com/hhrh/crypto-airflow-dbt-postgresql-pipeline)
   - real-time cryptocurrency pipeline, prices loaded into PostgreSQL, transformed using dbt
   - All orchestrated by Airflow and running inside Docker containers
 
+
+## Web Development Projects:
+- [Customer Ready Full Stack eCommerce Store](https://github.com/hhrh/Ecommerce-Store)
+
+  - Built with MERN stack (MongoDB, Express.js, React.js, Node.js).
+  - Modern UI, Admin Panel, Paypal Payments, JWT Authentication, Deployed on Netlify
+ 
+
+
 B.S. in Computer Science - University of Nevada, Las Vegas  
-[LinkedIn](https://www.linkedin.com/in/hardyf/) | hardy.git@gmail.com | [Data Engineering Blog](https://data-guide.github.io/)  
+[LinkedIn](https://www.linkedin.com/in/hardyf/) | hardy.git@gmail.com | [My Blog](https://data-guide.github.io/)  
 
 
 <!--
