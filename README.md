@@ -1,4 +1,4 @@
-# Hardy Fenam, (ACCOUNT INACTIVE)
+# Hardy Fenam
 
 ## Data Engineering Projects:  
 - [Real Time Financial Fraud Detection Pipeline](https://github.com/hhrh/Real-Time-Fraud-Detection)
